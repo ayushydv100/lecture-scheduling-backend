@@ -1,4 +1,4 @@
-The Lecture Scheduling Module is a robust web application designed for streamlined course and lecture management. With user-friendly sign-up and login features, the system ensures a secure and personalized experience. Authenticated administrators have the privilege to add courses and lectures, while all users can effortlessly access and view course and lecture information, promoting seamless interaction and collaboration within the educational environment.
+The Lecture Scheduling Module is a robust web application designed for streamlined course and lecture management. With user-friendly sign-up and login features, the system ensures a secure and personalized experience. Only authenticated administrators have the privilege to add courses and lectures, while all users can effortlessly access and view course and lecture information, promoting seamless interaction and collaboration within the educational environment.
 
 Route details:
 
