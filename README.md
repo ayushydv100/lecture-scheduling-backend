@@ -6,34 +6,34 @@ Auth Routes
 
 File: authRoutes.js
 
-/signup (POST): Register a new user.
-/signin (POST): User login.
-/signout (GET): User sign-out
+/signup (POST): Register a new user.<br>
+/signin (POST): User login.<br>
+/signout (GET): User sign-out.<br>
 
 File: courseRoutes.js
 
-/course/create/:userId (POST): Create a new course (admin only).
-/course/:courseId (GET): Retrieve course details.
-/course/photo/:courseId (GET): Retrieve the course's photo.
-/courses (GET): List all courses.
+/course/create/:userId (POST): Create a new course (admin only).<br>
+/course/:courseId (GET): Retrieve course details.<br>
+/course/photo/:courseId (GET): Retrieve the course's photo.<br>
+/courses (GET): List all courses.<br>
 
 Instructer Routes
 
 File: instructerRoutes.js
 
-/instructer/create/:userId (POST): Create a new instructor (admin only).
-/instructer/:instructerId (GET): Retrieve instructor details.
-/instructers (GET): List all instructors.
+/instructer/create/:userId (POST): Create a new instructor (admin only).<br>
+/instructer/:instructerId (GET): Retrieve instructor details.<br>
+/instructers (GET): List all instructors.<br>
 
 Lecture Routes
 
 File: lectureRoutes.js
 
-/lecture/create/:userId (POST): Create a new lecture (admin only).
-/lecture/:lectureId (GET): Retrieve lecture details.
-/lectures (GET): List all lectures.
-/lectures/instructers (GET): Get unique instructors for lectures.
-/lectures/:course (GET): Get lectures by course.
+/lecture/create/:userId (POST): Create a new lecture (admin only).<br>
+/lecture/:lectureId (GET): Retrieve lecture details.<br>
+/lectures (GET): List all lectures.<br>
+/lectures/instructers (GET): Get unique instructors for lectures.<br>
+/lectures/:course (GET): Get lectures by course.<br>
 
 User Routes
 
